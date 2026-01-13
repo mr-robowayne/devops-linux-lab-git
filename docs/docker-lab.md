@@ -14,3 +14,11 @@ Provide a reproducible Linux environment for DevOps practice using Docker.
 
 ## User
 - labuser (passwordless sudo)
+
+## Persistent Workspace
+A bind mount is used to persist work outside the container.
+
+- Host path: ./workspace
+- Container path: /home/labuser/workspace
+
+This allows working like on a virtual machine while keeping data persistent.
