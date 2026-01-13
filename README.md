@@ -3,13 +3,13 @@
 This repository contains a simple DevOps Linux lab environment built with Docker.
 All setup steps, experiments, and changes are tracked using Git.
 
-## Goal
+## Project Goal
 Build a reproducible Linux lab environment using Docker and document the full workflow with Git.
 
+## LAB Goal
 The lab is intended for:
 - practicing Linux commands
 - understanding Docker basics
-- learning DevOps workflows in a controlled environment
 
 
 ## Stack
@@ -20,10 +20,7 @@ The lab is intended for:
 
 
 ## Getting Started
-To build and run the lab locally, follow the step-by-step instructions in:
-
-
-**`RUNNING.md`**
+To build and run the lab locally follow the step-by-step instructions in: **`RUNNING.md`**
 
 
 ## Lab Progress
